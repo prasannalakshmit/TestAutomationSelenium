@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_121">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/cssparser-0.9.21.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/htmlunit-2.24.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/htmlunit-core-js-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/htmlunit-driver-2.24.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/jetty-io-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/jetty-util-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/neko-htmlunit-2.24.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/slf4j.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/websocket-api-9.2.20.v20161216.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/websocket-client-9.2.20.v20161216.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/websocket-common-9.2.20.v20161216.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Lakshmi/TestAutomationSelenium/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

@@ -1,0 +1,275 @@
+Source Class Name : com.testframework.core.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Wed May 03 11:11:45 IST 2017
+Report Generation Complete!
+Source Class Name : com.testframework.core.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Wed May 03 11:11:45 IST 2017
+Exit from Main!!
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :10
+Current Date :Fri May 05 14:46:36 IST 2017
+Inside MAIN...
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :10
+Current Date :Tue May 09 07:59:16 IST 2017
+Inside MAIN...
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 08:00:14 IST 2017
+Inside MAIN...
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 08:00:14 IST 2017
+Creating New Dictionary Object
+Source Class Name : com.testautomationframework.core.create.CreateDictionary
+Source Method Name : getDictionaryObject
+Thread ID :1
+Current Date :Tue May 09 08:00:15 IST 2017
+Reading Excel sheet.. STARTED
+Source Class Name : com.testautomationframework.core.create.CreateDictionary
+Source Method Name : getDictionaryObject
+Thread ID :1
+Current Date :Tue May 09 08:00:15 IST 2017
+Iterating through the rows of the excel sheet..
+Source Class Name : com.testautomationframework.core.create.CreateDictionary
+Source Method Name : getDictionaryObject
+Thread ID :1
+Current Date :Tue May 09 08:00:15 IST 2017
+Data added to the Hashmap.... Reading Excel COMPLETE...
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 08:00:15 IST 2017
+Creation Done!!.....Dictionary Object is now ready to utilize
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 08:00:15 IST 2017
+Opening the browser
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 08:00:15 IST 2017
+Getting the screen shot
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 08:00:27 IST 2017
+Writing the screenshot to word document
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 08:00:27 IST 2017
+Generating Report....
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 08:00:39 IST 2017
+Report Generation Complete!
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 08:00:39 IST 2017
+Exit from Main!!
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 08:01:22 IST 2017
+Inside MAIN...
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 08:01:22 IST 2017
+Creating New Dictionary Object
+Source Class Name : com.testautomationframework.core.create.CreateDictionary
+Source Method Name : getDictionaryObject
+Thread ID :1
+Current Date :Tue May 09 08:01:23 IST 2017
+Reading Excel sheet.. STARTED
+Source Class Name : com.testautomationframework.core.create.CreateDictionary
+Source Method Name : getDictionaryObject
+Thread ID :1
+Current Date :Tue May 09 08:01:23 IST 2017
+Iterating through the rows of the excel sheet..
+Source Class Name : com.testautomationframework.core.create.CreateDictionary
+Source Method Name : getDictionaryObject
+Thread ID :1
+Current Date :Tue May 09 08:01:23 IST 2017
+Data added to the Hashmap.... Reading Excel COMPLETE...
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 08:01:23 IST 2017
+Creation Done!!.....Dictionary Object is now ready to utilize
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 08:01:23 IST 2017
+Opening the browser
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 08:01:23 IST 2017
+Getting the screen shot
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 08:01:34 IST 2017
+Writing the screenshot to word document
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 08:01:35 IST 2017
+Generating Report....
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 08:01:47 IST 2017
+Report Generation Complete!
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 08:01:47 IST 2017
+Exit from Main!!
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 10:36:16 IST 2017
+Inside MAIN...
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 10:36:16 IST 2017
+Creating New Dictionary Object
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 10:36:16 IST 2017
+Creation Done!!.....Dictionary Object is now ready to utilize
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 10:36:16 IST 2017
+Opening the browser
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 10:36:16 IST 2017
+Getting the screen shot
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 10:36:28 IST 2017
+Writing the screenshot to word document
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 10:36:29 IST 2017
+Generating Report....
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 10:36:42 IST 2017
+Report Generation Complete!
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 10:36:42 IST 2017
+Exit from Main!!
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 10:39:18 IST 2017
+Inside MAIN...
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 10:39:18 IST 2017
+Creating New Dictionary Object
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 10:39:18 IST 2017
+Creation Done!!.....Dictionary Object is now ready to utilize
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 10:39:18 IST 2017
+Opening the browser
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 10:39:18 IST 2017
+Getting the screen shot
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 10:39:30 IST 2017
+Writing the screenshot to word document
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 10:39:31 IST 2017
+Generating Report....
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 10:39:43 IST 2017
+Report Generation Complete!
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 10:39:43 IST 2017
+Exit from Main!!
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 10:40:12 IST 2017
+Inside MAIN...
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 10:40:12 IST 2017
+Creating New Dictionary Object
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 10:40:12 IST 2017
+Creation Done!!.....Dictionary Object is now ready to utilize
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 10:40:12 IST 2017
+Opening the browser
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 10:40:12 IST 2017
+Getting the screen shot
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 10:40:23 IST 2017
+Writing the screenshot to word document
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 10:40:24 IST 2017
+Generating Report....
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 10:40:34 IST 2017
+Report Generation Complete!
+Source Class Name : com.testautomationframework.core.fetch.FetchDictionaryObject
+Source Method Name : main
+Thread ID :1
+Current Date :Tue May 09 10:40:34 IST 2017
+Exit from Main!!
